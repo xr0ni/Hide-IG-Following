@@ -1,5 +1,7 @@
 # Hide IG Following
 
+*** PATCHED AS OF 22 NOV 2026, CODE LEFT UP FOR REVIEW ***
+
 Toggle hidden Instagram privacy settings that aren't exposed in the app.
 
 **What it does:**
